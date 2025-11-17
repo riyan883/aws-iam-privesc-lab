@@ -24,6 +24,7 @@ Automated IAM graph generator
 The project includes a live running demo, screenshots, and a step-by-step exploit scanner.
 
 🎯 Key Features
+
 🔐 1. 10 IAM Users with Custom Roles
 
 Each user has carefully crafted permissions to simulate a realistic corporate environment.
@@ -73,7 +74,7 @@ Frontend hosted through a secure ngrok tunnel.
 Google Drive video showing full exploitation steps.
 
 🔗 Demo Links
-🌍 Live Project (ngrok)
+🌍 Ngrok (was live)
 https://89c4f0148a1f.ngrok-free.app
 
 🎥 Video Walkthrough
